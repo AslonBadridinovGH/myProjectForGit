@@ -6,7 +6,7 @@ public class Main {
 
     Person person = new Person(1,"John","Markstrasse", new Pet(1, "Dog",3));
 
-    Person person1 = new Person(2,"Jim","Markstrasse",null);
+     Person person1 = new Person(2,"Jim","Markstrasse",null);
 
     }
 }
