@@ -6,7 +6,9 @@ public record Person(
 
         String name,
 
-        String address
+        String address,
+
+        Pet pet
 
 ) {
 }
